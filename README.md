@@ -1,14 +1,4 @@
-# Getting started
-### Step 1
-- Fork <a href="https://github.com/XolPanel/xontolpanel">Repo</a> Ini
-- Siapkan 1 (atau lebih) VPS Tumbal untuk sesajen (sudah terinstall autoscript vpn)
-- Login Ke VPS Tumbal Tadi, copas command Berikut:
-```
-apt update && apt upgrade -y && curl -O https://raw.githubusercontent.com/XolPanel/xontolpanel/main/api.sh && bash api.sh
-```
-- simpan `AUTH KEY` untuk dipakai deploy ke herocrot nanti
-
-### Step 2 (Tugas STT NF)
+### Step 1 (Tugas STT NF)
 - Tugas Peromgraman Web 1
 - Klik Tombol Dibawah
 <p align="center"><a href="https://resumejundy.netlify.app/index.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Tugas STT NF" target="_blank"/></a></img></p>
