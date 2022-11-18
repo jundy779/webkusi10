@@ -3,7 +3,7 @@ import implicitRenderHtml from './implicit.html';
 
 // This is the demo secret key. In prod, we recommend you store
 // your secret key(s) safely.
-const SECRET_KEY = '1x0000000000000000000000000000000AA';
+const SECRET_KEY = '0x4AAAAAAABSZYB3GH_I2Iz-4EROdW6yliU';
 
 async function handlePost(request) {
     const body = await request.formData();
